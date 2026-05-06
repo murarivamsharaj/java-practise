@@ -8,7 +8,7 @@ public abstract class Animal {
     }
 
     public static void main(String[] args) {
-        System.out.println("some sound");
+        System.out.println("some   sound");
         Animal[] animals = {new Cat("snoopy "), new Dog("pitbull ")};
 
         for (Animal a : animals) {
