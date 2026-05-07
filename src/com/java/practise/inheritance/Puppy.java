@@ -5,6 +5,6 @@ public class Puppy extends Dog{
 
     void sound() {
         System.out.println(name + "  is her name ");
-        System.out.println("what is the hair colour  " + hairColour);
+        System.out.println("what is the hair  colour  " + hairColour);
     }
 }
