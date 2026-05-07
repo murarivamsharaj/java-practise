@@ -22,7 +22,6 @@ public class Main {
         dog.bark();
         dog.eat();
         dog.sleep();
-
         cat.run();
     }
 }
