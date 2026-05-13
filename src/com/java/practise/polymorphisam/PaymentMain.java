@@ -7,5 +7,6 @@ public class PaymentMain {
         pay.pay();
         pay = new GooglePay();
         pay.pay();
+
     }
 }
